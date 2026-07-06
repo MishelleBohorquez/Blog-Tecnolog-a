@@ -254,5 +254,8 @@ Publicación de nuevas versiones, monitoreo de la plataforma, análisis de métr
 
 **Engineering Stories** busca consolidarse como la plataforma de referencia para el aprendizaje basado en experiencias dentro de la industria tecnológica. A largo plazo, el producto aspira a convertirse en un repositorio global de conocimiento práctico donde profesionales de cualquier nivel puedan documentar, descubrir y reutilizar aprendizajes provenientes de proyectos reales, contribuyendo al desarrollo de una comunidad más preparada, colaborativa e innovadora.
 
-# Link backlog
+# Link backlog Trello
 **Engineering Stories** -> https://trello.com/b/Hn6hwm5u/sprint-1
+
+# Link backlog Jira
+**Engineering Stories** -> https://juancarlospastasvalencia.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiMTNjMGZiNzdmNzA1NDZkOTk2MWYwNjliMGNjYmJlMGIiLCJwIjoiaiJ9
